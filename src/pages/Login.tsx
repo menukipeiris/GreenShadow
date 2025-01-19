@@ -23,7 +23,7 @@ export function Login() {
         onSubmit={handleLogin}
       >
         <div className="mb-12">
-          <h3 className="text-gray-800 text-3xl text-center font-bold">
+          <h3 className="text-green-700 text-3xl text-center font-bold">
             Green Shadow Login
           </h3>
         </div>
